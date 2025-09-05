@@ -25,9 +25,7 @@ Quando publicar no GitHub Pages, o link ficará assim:
 
 ## 🖼️ Preview
 
-> (Opcional) Coloque um print em `img/preview.png` e descomente abaixo:
-
-<!-- ![Preview da página](img/preview.png) -->
+[Preview da página](img/print-tela-principal.png)
 
 ---
 
@@ -52,3 +50,4 @@ function alterarStatus(id) {
     capaGamer.classList.remove("dashboard__item__img--rented");
   }
 }
+```
