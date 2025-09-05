@@ -8,10 +8,7 @@ Uma página simples para **alugar/devolver jogos** com troca de estado no botão
 
 ## 🔗 Demo
 
-Quando publicar no GitHub Pages, o link ficará assim:
-`https://andresvyeyra.github.io/alug-games/`
-
-> Como publicar: **Settings → Pages → Source: `Deploy from a branch` → `main` → `/ (root)` → Save**. Aguarde alguns minutos e teste o link.
+👉 [Acesse aqui](https://andresvyeyra.github.io/alug-games/)
 
 ---
 
@@ -25,7 +22,7 @@ Quando publicar no GitHub Pages, o link ficará assim:
 
 ## 🖼️ Preview
 
-[Preview da página](img/print-tela-principal.png)
+![Preview da página](img/print-tela-principal.png)
 
 ---
 
